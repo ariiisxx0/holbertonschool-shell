@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -la .  # Lista archivos del directorio actual
+ls -la ..  # Lista archivos del directorio padre
+ls -la /boot  # Lista archivos del directorio /boot
